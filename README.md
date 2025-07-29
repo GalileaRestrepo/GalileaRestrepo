@@ -1,6 +1,6 @@
 # 👋 Heyo, I'm Gali! 
 🎓 CS undergrad at Tecnológico de Monterrey  <br>
-🌐 Fullstack developer based in Mexico  <br>
+🌐 Developer based in Mexico  <br>
 🌟 Interested in fullstack development, software development, machine learning, 3D modeling tools, and game development  <br>
 🚀 Currently learning more about web development and Swift programming  <br>
 📚 Outside of tech, I love consuming media, and I'm a proud cat mom! 🐱
