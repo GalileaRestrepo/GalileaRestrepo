@@ -6,9 +6,7 @@
 Outside of tech, I'm a proud cat mom! 
 
 ### 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=py,java,cpp,cs,js,php,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,spring,dotnet,bootstrap)
-![Tools](https://skillicons.dev/icons?i=git,github,mongodb,mysql,jenkins,jest,eclipse,androidstudio,blender,ps,notion,regex,pug)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,html,md,r,erlang,js,aws,oracle,dotnet,flutter,nodejs,mysql,canva,figma,blender,git,github,unity&perline=10)](https://skillicons.dev)
 
 ![](https://github-profile-trophy.vercel.app/?username=GalileaRestrepo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
