@@ -1,4 +1,4 @@
-# Heyo, I'm Gali! 
+# Heyo, I'm Gali :)
 I'm a C.S. undergrad at Tecnológico de Monterrey and a dev based in Mexico. I'm currently learning more about web dev and competitive programming!! 
 
 ## My Tech Stack
